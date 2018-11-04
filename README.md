@@ -1,1 +1,1 @@
-igor proshchenko
+Data warehouse exercitation
